@@ -105,7 +105,7 @@ public class MyCalculator extends Frame
     ////////////////////////////////////////
     public static void main(String []args)
     {
-        new MyCalculator("Calculator - JavaTpoint");
+        new MyCalculator("Calculator - JavaTpoint(088)");
     }
 }
 
