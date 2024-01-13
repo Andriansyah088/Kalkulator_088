@@ -1,0 +1,5 @@
+Penjelasan Program yang telah di modifikasi
+1. Modifikasi terletak di penampilan serta adanya operator baru 
+2. Operator baru meliputi pangkat, faktorial, logaritma(10), logaritma dengan basis yang bisa diinputkan, SIN, COS dan TAN
+3. Cara penggunaan dari beberapa operator untuk faktorial, logaritma(10) cara kerja sama seperti sqrt yaitu input operand(angka) baru tekan operator dan akan langsung muncul hasilnya
+4. Untuk SIN,COS,TAN bisa input/tekan tombol operator baru input operand(angka) dan tekan tombol '=' untuk memunculkan hasil
